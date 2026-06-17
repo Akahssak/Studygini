@@ -1,5 +1,7 @@
 # Study gini app
 
+Use our Application Instead : https://dragondev_manam_akash_bhuvan.databutton.app/study-geni
+
 
 ## Stack
 
