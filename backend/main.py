@@ -17,7 +17,7 @@ def get_router_config() -> dict:
         return False
     return cfg
 
-
+#routing configuration
 def is_auth_disabled(router_config: dict, name: str) -> bool:
     return router_config["routers"][name]["disableAuth"]
 
